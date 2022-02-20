@@ -1,6 +1,4 @@
 // import icons from '../img/icon.svg'; // Parcel 1
-import 'core-js/stable';
-import 'regenerator-runtime/runtime';
 import { MODAL_CLOSE_SEC } from './config.js';
 // import icons from 'url:../img/icons.svg'; // Parcel 2
 import * as model from './model.js';
