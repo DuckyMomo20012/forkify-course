@@ -2,6 +2,8 @@
 
 Recipe application with custom recipe uploads.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/93785c57-3873-407c-aae6-9544b6ec3da7/deploy-status)](https://app.netlify.com/sites/forkify-ducky/deploys)
+
 ## Tech stacks:
 
 <p align="center">
