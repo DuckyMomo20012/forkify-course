@@ -522,7 +522,7 @@
     "@parcel/utils" "2.3.2"
     react-refresh "^0.9.0"
 
-"@parcel/transformer-sass@^2.3.2":
+"@parcel/transformer-sass@2.3.2":
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/@parcel/transformer-sass/-/transformer-sass-2.3.2.tgz#ee124d02acb1f44417f0d78d366302dd68aa412b"
   integrity sha512-jVDdhyzfCYLY/91gOfMAT0Cj3a3czETD71WpvnXhzfctnhZZ/lhC1aFUJxlhIF1hkVNyZ1b9USCCBAD4fje2Jg==
@@ -779,7 +779,7 @@ complex.js@^2.0.15:
   resolved "https://registry.yarnpkg.com/complex.js/-/complex.js-2.0.15.tgz#7add6848b4c1d12aa9262f7df925ebe7a51a7406"
   integrity sha512-gDBvQU8IG139ZBQTSo2qvDFP+lANMGluM779csXOr6ny1NUtA3wkUnCFjlDNH/moAVfXtvClYt6G0zarFbtz5w==
 
-core-js@^3.21.1:
+core-js@3.21.1:
   version "3.21.1"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.21.1.tgz#f2e0ddc1fc43da6f904706e8e955bc19d06a0d94"
   integrity sha512-FRq5b/VMrWlrmCzwRrpDYNxyHP9BcAZC+xHJaqTgIE5091ZV1NTmyh0sGOg5XqpnHvR0svdy0sv1gWA1zmhxig==
@@ -1106,7 +1106,7 @@ fraction.js@^4.1.2:
   resolved "https://registry.yarnpkg.com/fraction.js/-/fraction.js-4.1.3.tgz#be65b0f20762ef27e1e793860bc2dfb716e99e65"
   integrity sha512-pUHWWt6vHzZZiQJcM6S/0PXfS+g6FM4BF5rj9wZyreivhQPdsh5PpE25VtSNxq80wHS5RfY51Ii+8Z0Zl/pmzg==
 
-fractional@^1.0.0:
+fractional@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/fractional/-/fractional-1.0.0.tgz#dab167a2f9f804cf9038bddf47aa9ba7f207eabc"
   integrity sha1-2rFnovn4BM+QOL3fR6qbp/IH6rw=
@@ -1288,7 +1288,7 @@ lodash.uniq@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-mathjs@^10.1.1:
+mathjs@10.1.1:
   version "10.1.1"
   resolved "https://registry.yarnpkg.com/mathjs/-/mathjs-10.1.1.tgz#99b647387b65c4b5c47b71e11d59481473ccfa0d"
   integrity sha512-4QJP8a0Vy90ajFYESnITSluCrQBZnI+2XQhKJIRdo/6t95oupffS5qA4MTWnLGm5GsEZF179JSMjST7wCdZQkA==
@@ -1380,7 +1380,7 @@ ordered-binary@^1.2.4:
   resolved "https://registry.yarnpkg.com/ordered-binary/-/ordered-binary-1.2.4.tgz#51d3a03af078a0bdba6c7bc8f4fedd1f5d45d83e"
   integrity sha512-A/csN0d3n+igxBPfUrjbV5GC69LWj2pjZzAAeeHXLukQ4+fytfP4T1Lg0ju7MSPSwq7KtHkGaiwO8URZN5IpLg==
 
-parcel@^2.3.2:
+parcel@2.3.2:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/parcel/-/parcel-2.3.2.tgz#d1cb475f27edae981edea7a7104e04d3a35a87ca"
   integrity sha512-4jhgoBcQaiGKmnmBvNyKyOvZrxCgzgUzdEoVup/fRCOP99hNmvYIN5IErIIJxsU9ObcG/RGCFF8wa4kVRsWfIg==
@@ -1689,7 +1689,7 @@ readdirp@~3.6.0:
   dependencies:
     picomatch "^2.2.1"
 
-regenerator-runtime@^0.13.4, regenerator-runtime@^0.13.7, regenerator-runtime@^0.13.9:
+regenerator-runtime@0.13.9, regenerator-runtime@^0.13.4, regenerator-runtime@^0.13.7:
   version "0.13.9"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.9.tgz#8925742a98ffd90814988d7566ad30ca3b263b52"
   integrity sha512-p3VT+cOEgxFsRRA9X4lkI1E+k2/CtnKtU4gcxyaCUreilL/vqI6CdZ3wxVUx3UOUg+gnUOQQcRI7BmSI656MYA==
@@ -1720,7 +1720,7 @@ safe-buffer@^5.0.1:
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.2.1.tgz#1eaf9fa9bdb1fdd4ec75f58f9cdb4e6b7827eec6"
   integrity sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ==
 
-sass@^1.38.0, sass@^1.49.8:
+sass@1.49.8, sass@^1.38.0:
   version "1.49.8"
   resolved "https://registry.yarnpkg.com/sass/-/sass-1.49.8.tgz#9bbbc5d43d14862db07f1c04b786c9da9b641828"
   integrity sha512-NoGOjvDDOU9og9oAxhRnap71QaTjjlzrvLnKecUJ3GxhaQBrV6e7gPuSPF28u1OcVAArVojPAe4ZhOXwwC4tGw==
@@ -1858,7 +1858,7 @@ v8-compile-cache@^2.0.0:
   resolved "https://registry.yarnpkg.com/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz#2de19618c66dc247dcfb6f99338035d8245a2cee"
   integrity sha512-l8lCEmLcLYZh4nbunNZvQCJc5pv7+RCwa8q/LdUx8u7lsWvPDKmpodJAJNwkAhJC//dFY48KuIEmjtd4RViDrA==
 
-vite@^2.8.4:
+vite@2.8.4:
   version "2.8.4"
   resolved "https://registry.yarnpkg.com/vite/-/vite-2.8.4.tgz#4e52a534289b7b4e94e646df2fc5556ceaa7336b"
   integrity sha512-GwtOkkaT2LDI82uWZKcrpRQxP5tymLnC7hVHHqNkhFNknYr0hJUlDLfhVRgngJvAy3RwypkDCWtTKn1BjO96Dw==

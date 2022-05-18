@@ -10,15 +10,15 @@
   "author": "Duong Vinh",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.3.2",
-    "fractional": "^1.0.0",
-    "parcel": "^2.3.2",
-    "sass": "^1.49.8",
-    "vite": "^2.8.4"
+    "@parcel/transformer-sass": "2.3.2",
+    "fractional": "1.0.0",
+    "parcel": "2.3.2",
+    "sass": "1.49.8",
+    "vite": "2.8.4"
   },
   "dependencies": {
-    "core-js": "^3.21.1",
-    "mathjs": "^10.1.1",
-    "regenerator-runtime": "^0.13.9"
+    "core-js": "3.21.1",
+    "mathjs": "10.1.1",
+    "regenerator-runtime": "0.13.9"
   }
 }
