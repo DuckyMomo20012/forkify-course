@@ -13,7 +13,7 @@
     "@parcel/transformer-sass": "2.3.2",
     "fractional": "1.0.0",
     "parcel": "2.3.2",
-    "sass": "1.49.8",
+    "sass": "1.51.0",
     "vite": "2.8.4"
   },
   "dependencies": {
