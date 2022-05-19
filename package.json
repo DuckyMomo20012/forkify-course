@@ -14,7 +14,7 @@
     "fractional": "1.0.0",
     "parcel": "2.3.2",
     "sass": "1.51.0",
-    "vite": "2.8.4"
+    "vite": "2.9.9"
   },
   "dependencies": {
     "core-js": "3.21.1",
