@@ -17,7 +17,7 @@
     "vite": "2.9.9"
   },
   "dependencies": {
-    "core-js": "3.22.5",
+    "core-js": "3.22.6",
     "mathjs": "10.5.3",
     "regenerator-runtime": "0.13.9"
   }
