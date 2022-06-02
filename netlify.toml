@@ -1,0 +1,6 @@
+# https://github.com/vuejs/vitepress/blob/main/netlify.toml#L3
+[build.environment]
+  NPM_FLAGS = "--version" # prevent Netlify npm install
+
+[build]
+  command = "npx pnpm install --store=node_modules/.pnpm-store && npm run build"
