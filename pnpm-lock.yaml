@@ -7,7 +7,7 @@ specifiers:
   mathjs: 10.6.1
   parcel: 2.6.0
   regenerator-runtime: 0.13.9
-  sass: 1.52.1
+  sass: 1.52.2
   vite: 2.9.9
 
 dependencies:
@@ -19,8 +19,8 @@ devDependencies:
   '@parcel/transformer-sass': 2.6.0
   fractional: 1.0.0
   parcel: 2.6.0
-  sass: 1.52.1
-  vite: 2.9.9_sass@1.52.1
+  sass: 1.52.2
+  vite: 2.9.9_sass@1.52.2
 
 packages:
 
@@ -824,7 +824,7 @@ packages:
     dependencies:
       '@parcel/plugin': 2.6.0
       '@parcel/source-map': 2.0.5
-      sass: 1.52.1
+      sass: 1.52.2
     transitivePeerDependencies:
       - '@parcel/core'
     dev: true
@@ -1909,8 +1909,8 @@ packages:
     resolution: {integrity: sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ==}
     dev: true
 
-  /sass/1.52.1:
-    resolution: {integrity: sha512-fSzYTbr7z8oQnVJ3Acp9hV80dM1fkMN7mSD/25mpcct9F7FPBMOI8krEYALgU1aZoqGhQNhTPsuSmxjnIvAm4Q==}
+  /sass/1.52.2:
+    resolution: {integrity: sha512-mfHB2VSeFS7sZlPv9YohB9GB7yWIgQNTGniQwfQ04EoQN0wsQEv7SwpCwy/x48Af+Z3vDeFXz+iuXM3HK/phZQ==}
     engines: {node: '>=12.0.0'}
     hasBin: true
     dependencies:
@@ -2036,7 +2036,7 @@ packages:
     resolution: {integrity: sha512-l8lCEmLcLYZh4nbunNZvQCJc5pv7+RCwa8q/LdUx8u7lsWvPDKmpodJAJNwkAhJC//dFY48KuIEmjtd4RViDrA==}
     dev: true
 
-  /vite/2.9.9_sass@1.52.1:
+  /vite/2.9.9_sass@1.52.2:
     resolution: {integrity: sha512-ffaam+NgHfbEmfw/Vuh6BHKKlI/XIAhxE5QSS7gFLIngxg171mg1P3a4LSRME0z2ZU1ScxoKzphkipcYwSD5Ew==}
     engines: {node: '>=12.2.0'}
     hasBin: true
@@ -2056,7 +2056,7 @@ packages:
       postcss: 8.4.14
       resolve: 1.22.0
       rollup: 2.75.5
-      sass: 1.52.1
+      sass: 1.52.2
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
