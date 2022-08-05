@@ -50,7 +50,7 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-  - [Description](#thoughtballoon-description)
+  - [Description](#thought_balloon-description)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
@@ -169,6 +169,7 @@ yarn dev
 ## :compass: Roadmap
 
 - [ ] Add basic authentication.
+- [ ] Filter recipes.
 
 <!-- Contributing -->
 
