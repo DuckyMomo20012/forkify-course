@@ -116,11 +116,11 @@ Zero to Expert!"
 
 ### :art: Color Reference
 
-| Color            | Hex                                                             |
-| ---------------- | --------------------------------------------------------------- |
-| Primary Color    | ![#F38E82](http://via.placeholder.com/10/F38E82?text=+) #F38E82 |
-| Gradient Color 1 | ![#FBDB89](http://via.placeholder.com/10/FBDB89?text=+) #FBDB89 |
-| Gradient Color 2 | ![#F48982](http://via.placeholder.com/10/F48982?text=+) #F48982 |
+| Color            | Hex                                                              |
+| ---------------- | ---------------------------------------------------------------- |
+| Primary Color    | ![#F38E82](https://placehold.jp/F38E82/F38E82/10x10.png) #F38E82 |
+| Gradient Color 1 | ![#FBDB89](https://placehold.jp/FBDB89/FBDB89/10x10.png) #FBDB89 |
+| Gradient Color 2 | ![#F48982](https://placehold.jp/F48982/F48982/10x10.png) #F48982 |
 
 <!-- Getting Started -->
 
@@ -207,7 +207,8 @@ for more information.
 
 ## :handshake: Contact
 
-Duong Vinh - [@duckymomo20012](https://twitter.com/duckymomo20012) - tienvinh.duong4@gmail.com
+Duong Vinh - [@duckymomo20012](https://twitter.com/duckymomo20012) -
+tienvinh.duong4@gmail.com
 
 Project Link: [https://github.com/DuckyMomo20012/forkify-course](https://github.com/DuckyMomo20012/forkify-course).
 
